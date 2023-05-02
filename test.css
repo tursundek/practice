@@ -1,0 +1,6 @@
+select { 
+    outline: none !important;
+    width: 170px;  
+    appearance: none; 
+    overflow: hidden;
+    background: url("./icon/Vector\ 5.svg") no-repeat right; }

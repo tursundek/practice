@@ -1,0 +1,24 @@
+@font-face {
+    font-family: font-1;
+    src: url(./font/MontserratAlternates-Light.ttf);
+}
+@font-face {
+    font-family: font-2;
+    src: url(./font/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: font-3;
+    src: url(./font/Philosopher-BoldItalic.ttf);
+}
+@font-face {
+    font-family: font-4;
+    src: url(./font/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: font-5;
+    src: url(./font/RubikMonoOne-Regular.ttf);
+}
+@font-face {
+    font-family: f;
+    src: url(./font/Miracle\ Personal\ use.otf);
+}

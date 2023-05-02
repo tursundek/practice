@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background-color: aqua;
+} */
+
+
+
+
+#id-brn{
+    outline: none !important
+}
+
+
+
+
+
+
+
+
+
+.c{
+    color: aliceblue;
+    -webkit-filter: blur(9px);
+    opacity: 0.8;
+    filter: alpha(opacity=40);
+    height: 740px;
+    background-repeat: no-repeat;
+    background-image: url(./img/ten_hotels_losko_08.jpg);
+}
+.container-1{
+    color: aliceblue;
+    margin-left: 95px;
+    margin-top: -705px;
+    position: absolute;
+}
+.c-1-e-1{
+    color: aliceblue;
+    position: absolute;
+    border-radius: 17px;
+    margin-left: 401px;
+    margin-top: -473px;
+    width: 436px;
+    height: 468px;
+    background: #020304;
+    opacity: 0.9;
+}
+.c-1-e-1-b-1-if-1{
+    color: aliceblue;
+    border-radius: 17px;
+    /* position: absolute; */
+    width: 281px;
+    width: 436px;
+    height: 468px;
+    margin-left: 401px;
+    margin-top: 90px;
+}
+
+.con-2-element-1-text-1{
+    font-style: normal;
+    font-weight: 400;
+    font-family: f;
+    font-size: 40px;
+    /* line-height: 200px; */
+    margin-left: 124px;
+    margin-top: 28px;
+}
+.c-1-e-1-b-1-t-1{
+    text-transform: uppercase;
+    margin-top: 21px;
+    margin-left: 50px;
+    font-family: 'font-2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    color: #ddf5f6;
+
+}
+.c-1-e-1-b-1-ic-1{
+
+    height: 58px;
+    position: absolute;
+    width: 79px;
+    margin-left: 179px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.c-1-e-1-b-2{
+    /* width: 100px; */
+    /* height: 1px; */
+    margin-left: 93px;
+    margin-top: 88px
+    /* background-color: ; */
+}
+
+
+.c-1-e-1-b-2-email-1{
+    color: aliceblue;
+    background: transparent;
+    /* margin-top: 16px; */
+    padding-left: 10px;
+    width: 238px;
+    height: 36px;
+    /* margin-left: 1px; */
+    margin-top: 12px;
+}
+.c-1-e-1-b-2-password-1{
+    color: aliceblue;
+    background: transparent;
+    padding-left: 10px;
+    width: 238px;
+    height: 36px;
+    /* margin-left: 1px; */
+    margin-top: 10px;
+}
+.c-1-e-1-b-2-bs-1{
+    font-family: font-1;
+    color: aliceblue;
+    background: transparent;
+    width: 94px;
+    height: 34px;
+    margin-left: 81px;
+    margin-top: 24px;
+    padding-left: -2px;
+}
+.c-1-e-1-b-2-bs-1:focus {
+    /* border: ; */
+    outline: none !important
+ }
+
+.c-1-e-1-b-2-it-1{
+    width: 24px;
+    height: 14px;
+    border-radius: 100px;
+}
+
+.c-1-e-1-b-2-t-2{
+    margin-top: -1px;
+    margin-left: 6px;
+    font-family: 'font-2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+}
+
+.c-1-e-1-b-2-cit-1{
+    display: flex;
+    margin-top: 8px;
+}
+
+
+ 
